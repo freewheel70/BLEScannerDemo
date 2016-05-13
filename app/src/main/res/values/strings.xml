@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BLEScannerDemo</string>
+    <string name="start_scan_button">Start Scan</string>
+    <string name="stop_scan_button">Stop Scan</string>
+</resources>
